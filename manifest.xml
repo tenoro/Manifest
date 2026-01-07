@@ -1,0 +1,5 @@
+<manifest>
+<remote fetch="https://github.com/tenoro" name="test" revision="mainline"/>
+<project path="test1" name="npm_project" remote="test" revision="mainline"/>
+<project path="TEST2" name="Capstone_project" remote="test" revision="mainline"/>
+</manifest>
